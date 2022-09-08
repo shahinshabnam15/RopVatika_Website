@@ -1,0 +1,6 @@
+package com.Ropvatika.admin;
+
+@Controller
+public class MainController {
+
+}
